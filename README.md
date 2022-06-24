@@ -37,7 +37,6 @@ Install the downloaded hp printer driver by following the mentioned below steps 
 2. Then Click on the Printers & Scanners icon.
 3. Click the plus **“+”**  symbol to add the printer and click Add Printer option.
 4. A new window will open. Click on the IP icon at the top and fill the necessary data.
-5. After that, Add the printer to your PC and it has to appear in your printers list once configuration is done. Then Print a test page to 6. confirm 
-
-the printer is functioning well.
+5. After that, Add the printer to your PC and it has to appear in your printers list once configuration is done. 
+6.  Then Print a test page to confirm the printer is functioning well.
 7. If the printer is not listed, then Follow the steps once again and reconnect the printer.

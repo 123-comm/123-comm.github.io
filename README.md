@@ -1,6 +1,6 @@
 # 123hp.com/setup
 
-[![123hp.com/setup](get-started-button.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123hp.com/setup](get-started-button.png)](https://hp.printredir.com)
 
 HP Printers have made the task of printing hassle free and easier. These HP printers can print anywhere in your home and also it can scan, copy at an economical price. It can be quickly setup and occupies a small space with a compact design. All you need is to visit: [123.hp.com/setup](https://123-comm.github.io/) and install the hp printer on your Windows or Mac computer. 
 
